@@ -1,0 +1,8 @@
+flask==2.2.5
+gunicorn==20.1.0
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow==2.11.0
+boto3
